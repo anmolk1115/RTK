@@ -1,0 +1,5 @@
+.card-container {
+    box-shadow: tomato;
+    border: 0.5px solid black;
+    max-width: 450px;
+}
